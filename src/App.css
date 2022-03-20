@@ -36,3 +36,20 @@
     transform: rotate(360deg);
   }
 }
+
+
+.delete-icon {
+  margin-right: 5px;
+  color: gray;
+  border: 0;
+  padding: 10px 10px;
+  background-color: red;
+}
+
+.edit-icon {
+  margin-left: 15px;
+  color: gray;
+  border: 0;
+  padding: 10px 10px;
+  background-color: green;
+}
